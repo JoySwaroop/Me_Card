@@ -2,7 +2,7 @@
 
 ## What is this App All About
 
-I have created a Me Card app. Which Displays the image of me and Contact No With Flutter Developer Title.
+A Me Card app. Which Displays the image of me and Contact No and Email With Flutter Developer Title.
 
 ## What I have learned
 
